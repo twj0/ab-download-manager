@@ -4,6 +4,21 @@
   </a>
 </div>
 <h1 align="center">AB Download Manager</h1>
+
+## 🔧 Custom Fork
+
+This is a customized fork of AB Download Manager with the following modifications:
+
+**Purpose**: Enhanced performance for high-speed downloads and power users
+
+**Key Changes**:
+- **Increased thread limit**: Maximum concurrent threads raised from 256 to 512
+- **Auto-sync**: Daily automatic synchronization with upstream repository
+- **Custom updates**: Update checker points to this fork for independent releases
+
+> **Note**: This fork maintains compatibility with the original project while providing enhanced capabilities for users who need higher thread counts.
+
+---
 <p align="center">
     <a href="https://github.com/amir1376/ab-download-manager/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/amir1376/ab-download-manager?color=greenlight&label=latest%20release"></a>
     <a href="https://abdownloadmanager.com"><img alt="AB Download Manager Website" src="https://img.shields.io/badge/project-website-purple?&labelColor=gray"></a>

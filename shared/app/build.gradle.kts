@@ -120,7 +120,7 @@ buildConfig {
     buildConfigField(
         "PROJECT_GITHUB_OWNER",
         provider {
-            "amir1376"
+            "twj0"
         }
     )
     buildConfigField(
